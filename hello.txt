@@ -1,1 +1,8 @@
+hello
 welcome to linux
+
+LINUX DISTRIBUTION
+1.Red hat
+2.Fedora
+3.Debian
+4.Other
