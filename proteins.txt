@@ -1,0 +1,3 @@
+lysozyme      human ly_human   p0003
+hemoglobin    human hba_human  p0006
+
