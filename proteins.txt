@@ -1,3 +1,5 @@
 lysozyme      human ly_human   p0003
 hemoglobin    human hba_human  p0006
+pfkm          human pfkm_human p0387
+pdks          mouse pdks_mouse p09rt
 
